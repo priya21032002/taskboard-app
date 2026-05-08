@@ -1,14 +1,1 @@
-[
-  {
-    "id": "6e681c6d-d31e-47d9-9ace-06d10c634403",
-    "title": "task",
-    "priority": "medium",
-    "completed": true
-  },
-  {
-    "id": "f3e82004-3cd8-45bf-9a9c-fb4dafa5d89e",
-    "title": "do it now",
-    "priority": "low",
-    "completed": true
-  }
-]
+[]
