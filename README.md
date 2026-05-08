@@ -40,7 +40,7 @@ A modern full-stack task management application built using React, Tailwind CSS,
 ## Live Demo
 
 Frontend:
-[https://your-vercel-link.vercel.app](https://taskboard-app-rho.vercel.app/)
+[https://taskboard-app-rho.vercel.app](https://taskboard-app-rho.vercel.app/)
 
 Backend:
 https://your-railway-link.up.railway.app/tasks
