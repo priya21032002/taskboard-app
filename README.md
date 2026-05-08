@@ -42,5 +42,4 @@ A modern full-stack task management application built using React, Tailwind CSS,
 Frontend:
 [https://taskboard-app-rho.vercel.app](https://taskboard-app-rho.vercel.app/)
 
-Backend:
-https://taskboard-app-production-d8a0.up.railway.app(https://taskboard-app-production-d8a0.up.railway.app/)
+
